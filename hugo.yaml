@@ -1,3 +1,87 @@
-baseURL: https://example.org/
+baseURL: https://www.tomisinolujinmi.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Tomisin Olujinmi
+theme: PaperMod
+
+enableRobotsTXT: true
+mainsections: ["posts", "Tomisin Olujinmi"]
+
+
+minify:
+  disableXML: true
+  #minifyOutput: true
+  
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+     
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about
+      weight: 50
+    - identifier: Archives
+      name: Archives
+      url: /archives
+      weight: 100
+    - identifier: Portfolio
+      name: Portfolio
+      url: https://tomisinolujinmi.com
+      weight: 150
+    - #identifier: Search
+      #name: Search
+      #url: search/
+      #weight: 250 
+      
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+     
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema
+  description: "Breaker of Words. Thinker and Tinkerer"
+  defaultTheme: auto
+  ShowShareButttons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    #imageWidth: 120
+    #imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+  
+  homeInfoParams:
+     Title: "Breaker of Words"
+     Content: >
+       Welcome to my personal website and blog. I talk about the Internet, digital marketing, technology, and entrepreneurship. I can be found on the following social platforms.
+       
+  socialIcons:
+      - name: linkedin
+        title: Connect with me on LinkedIn
+        url: "https://linkedin.in/in/tomisin-olujinmi"
+      - name: twitter
+        title: Twitter
+        url: "https://twitter.com/hectoraisin"
+      - name: github
+        title: GitHub profile
+        url: "https://github.com/Hectoraisin"
+      
