@@ -1,4 +1,4 @@
-baseURL: https://hectoraisin.github.io/
+baseURL: https://hectoraisin.github.io/tomisin-olujinmi
 languageCode: en-us
 title: Tomisin Olujinmi
 theme: PaperMod
@@ -24,11 +24,11 @@ menu:
   main:
     - identifier: About
       name: About
-      url: /about
+      url: about/
       weight: 50
     - identifier: Archives
       name: Archives
-      url: /archives
+      url: archives/
       weight: 100
     - identifier: Portfolio
       name: Portfolio
