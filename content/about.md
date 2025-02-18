@@ -2,8 +2,6 @@
 title: 'About'
 layout: "single"
 ShowBreadCrumbs: false
-cover:
-  image: "/images/hectoraisin.jpg"
 ---
 
 ### Hello! Welcome to my personal website. 
