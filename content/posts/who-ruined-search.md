@@ -21,7 +21,7 @@ Since businesses started getting on the Web, it has been a dance between Google 
 
 These observations would become tactics and strategies and if you had a website that relied on getting traffic from Google, you had to pay attention. Occasionally, Google would release a guide with some helpful tips and some intentionally vague advice like “Make your site interesting and useful.” The company encouraged search engine optimization, as long as you didn't game the system. However, the simple truth is, that if there is a loophole, people will try to exploit it. 
 
-![Make your site interesting and helpful](/posts/images/interesting.png)
+![Make your site interesting and helpful](posts/images/interesting.png)
 *Source: [Google's SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)*
 
 There have several SEO techniques over the years, ranging from straight keyword stuffing to image tags. However, the most prevalent by far has been publishing long-form content. SEOs figured out that the most reliable way to rank high on Google was to write the best article on the topic. 
