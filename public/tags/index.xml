@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tomisin Olujinmi</title>
-    <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Tomisin Olujinmi</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 19:19:54 +0100</lastBuildDate>
-    <atom:link href="https://hectoraisin.github.io/tomisin-olujinmi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/google/</link>
+      <link>http://localhost:1313/tags/google/</link>
       <pubDate>Mon, 17 Feb 2025 19:19:54 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/google/</guid>
+      <guid>http://localhost:1313/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/search/</link>
+      <link>http://localhost:1313/tags/search/</link>
       <pubDate>Mon, 17 Feb 2025 19:19:54 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/search/</guid>
+      <guid>http://localhost:1313/tags/search/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/seo/</link>
+      <link>http://localhost:1313/tags/seo/</link>
       <pubDate>Mon, 17 Feb 2025 19:19:54 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/seo/</guid>
+      <guid>http://localhost:1313/tags/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/design/</guid>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Jamstack</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/tags/jamstack/</link>
+      <link>http://localhost:1313/tags/jamstack/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/tags/jamstack/</guid>
+      <guid>http://localhost:1313/tags/jamstack/</guid>
       <description></description>
     </item>
   </channel>

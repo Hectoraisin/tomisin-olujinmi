@@ -12,7 +12,7 @@ Google displaced other search engines by leveraging a simple, minimalistic inter
 
 This was what Google looked like then:
 
-![Google's search results interface in 2011](google-search-2011-serp.png)
+![Google's search results interface in 2011](/images/google-search-2011-serp.png)
 *Source: [Google Search Blog](https://search.googleblog.com/2011/06/some-updates-to-design-of-search.html)*
 
 Today, Google’s search engine is partly an AI chatbot and partly a portal to Reddit. Ads are displayed prominently above the fold. The top search results are fluffy, long-form content ranking primarily because of the number of keywords and backlinks on the page. Despite the company's best efforts to convince us otherwise, Google cannot reliably infer content quality. Therefore, the algorithm has to make do with other less important and more easily faked signals.
@@ -21,7 +21,7 @@ Since businesses started getting on the Web, it has been a dance between Google 
 
 These observations would become tactics and strategies and if you had a website that relied on getting traffic from Google, you had to pay attention. Occasionally, Google would release a guide with some helpful tips and some intentionally vague advice like “Make your site interesting and useful.” The company encouraged search engine optimization, as long as you didn't game the system. However, the simple truth is, that if there is a loophole, people will try to exploit it. 
 
-![Make your site interesting and helpful](interesting.png)
+![Make your site interesting and helpful](posts/images/interesting.png)
 *Source: [Google's SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)*
 
 There have several SEO techniques over the years, ranging from straight keyword stuffing to image tags. However, the most prevalent by far has been publishing long-form content. SEOs figured out that the most reliable way to rank high on Google was to write the best article on the topic. 
@@ -50,7 +50,7 @@ As early as 2019, savvy users discovered that adding ‘site:reddit.com’ or si
 </p>
 {{< /rawhtml >}}
 
-![Let's see who this really is](images/the-culprit.jpg)
+![Let's see who this really is](posts/images/the-culprit.jpg)
 *Let's see who is behind that mask*
 
 At the end of the day, Google itself ruined Google Search and they have no current incentive to fix it. 
