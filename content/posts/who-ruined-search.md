@@ -1,6 +1,6 @@
 ---
 date: '2025-02-17T19:19:54+01:00'
-draft: true
+draft: false
 title: 'Who Ruined Search?'
 categories: ["SEO", "Google", "Search"]
 tags: ["search", "SEO", "Google"]
