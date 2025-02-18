@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hectoraisin.github.io/tomisin-olujinmi/sitemap.xml
+Sitemap: https://hectoraisin.github.io/sitemap.xml
