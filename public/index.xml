@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tomisin Olujinmi</title>
-    <link>https://hectoraisin.github.io/tomisin-olujinmi/</link>
+    <link>https://tomisinolujinmi.com/</link>
     <description>Recent content on Tomisin Olujinmi</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 19:19:54 +0100</lastBuildDate>
-    <atom:link href="https://hectoraisin.github.io/tomisin-olujinmi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomisinolujinmi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Ruined Search?</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/posts/who-ruined-search/</link>
+      <link>https://tomisinolujinmi.com/posts/who-ruined-search/</link>
       <pubDate>Mon, 17 Feb 2025 19:19:54 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/posts/who-ruined-search/</guid>
+      <guid>https://tomisinolujinmi.com/posts/who-ruined-search/</guid>
       <description>&lt;p&gt;Google displaced other search engines by leveraging a simple, minimalistic interface and superior search algorithm. While its competitors were cluttered, ad-ridden web portals, Google had one specific purpose and it did it well.&lt;/p&gt;
 &lt;p&gt;This was what Google looked like then:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Google&amp;rsquo;s search results interface in 2011&#34; loading=&#34;lazy&#34; src=&#34;https://hectoraisin.github.io/tomisin-olujinmi/posts/who-ruined-search/google-search-2011-serp.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Google&amp;rsquo;s search results interface in 2011&#34; loading=&#34;lazy&#34; src=&#34;https://tomisinolujinmi.com/posts/who-ruined-search/google-search-2011-serp.png&#34;&gt;
 &lt;em&gt;Source: &lt;a href=&#34;https://search.googleblog.com/2011/06/some-updates-to-design-of-search.html&#34;   target=&#34;_blank&#34;&gt;Google Search Blog&lt;/a&gt;
 &lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Today, Google’s search engine is partly an AI chatbot and partly a portal to Reddit. Ads are displayed prominently above the fold. The top search results are fluffy, long-form content ranking primarily because of the number of keywords and backlinks on the page. Despite the company&amp;rsquo;s best efforts to convince us otherwise, Google cannot reliably infer content quality. Therefore, the algorithm has to make do with other less important and more easily faked signals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting up my website with Hugo</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/posts/hugo-website/</link>
+      <link>https://tomisinolujinmi.com/posts/hugo-website/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/posts/hugo-website/</guid>
+      <guid>https://tomisinolujinmi.com/posts/hugo-website/</guid>
       <description>Why I used Hugo to create my personal website</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/about/</link>
+      <link>https://tomisinolujinmi.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/about/</guid>
+      <guid>https://tomisinolujinmi.com/about/</guid>
       <description>&lt;h3 id=&#34;hello-welcome-to-my-personal-website&#34;&gt;Hello! Welcome to my personal website.&lt;/h3&gt;
 &lt;p&gt;My name is Tomisin and I am a writer. I have worked for MakeUseOf and CNX Software, writing long-form and news articles about productivity, electronics and computer hardware, embedded technology, and artificial intelligence. I also love writing fiction but who doesn&amp;rsquo;t.&lt;/p&gt;
 &lt;p&gt;Apart from writing, I am a fitness enthusiast, repented gamer, and so-so programmer. I make up for my lack of programming ability with a can-do attitude and writing wit.&lt;/p&gt;</description>

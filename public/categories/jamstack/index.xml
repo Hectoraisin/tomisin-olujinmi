@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jamstack on Tomisin Olujinmi</title>
-    <link>https://hectoraisin.github.io/tomisin-olujinmi/categories/jamstack/</link>
+    <link>https://tomisinolujinmi.com/categories/jamstack/</link>
     <description>Recent content in Jamstack on Tomisin Olujinmi</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Feb 2025 23:13:03 +0100</lastBuildDate>
-    <atom:link href="https://hectoraisin.github.io/tomisin-olujinmi/categories/jamstack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomisinolujinmi.com/categories/jamstack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up my website with Hugo</title>
-      <link>https://hectoraisin.github.io/tomisin-olujinmi/posts/hugo-website/</link>
+      <link>https://tomisinolujinmi.com/posts/hugo-website/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://hectoraisin.github.io/tomisin-olujinmi/posts/hugo-website/</guid>
+      <guid>https://tomisinolujinmi.com/posts/hugo-website/</guid>
       <description>Why I used Hugo to create my personal website</description>
     </item>
   </channel>
