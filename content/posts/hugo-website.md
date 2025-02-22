@@ -10,6 +10,7 @@ cover:
   image: images/hugo-logo-wide.png
   caption: World's fastest static site generator
 summary: Why I used Hugo to create my personal website
+canonicalURL: https://tomisinolujinmi.com/posts/hugo-website
 ---
 
 A personal  website is digital real estate. Having a domain name and hosting grants you your own tiny cranny of the Internet that you can completely lord over. Unlike a social media account, you can’t be de-platformed and you don’t really have to deal with people you don’t like. Everyone, I believe, should have at least a blog on their website. It is a plus if the website is self-hosted (although mine isn't).
