@@ -9,7 +9,7 @@ cover:
   caption: We can blame content marketers but Google has a larger share of the blame.
 canonicalURL: https://tomisinolujinmi.com/posts/who-ruined-search
 ---
-Google displaced other search engines by leveraging a simple, minimalistic interface and superior search algorithm. While its competitors were cluttered, ad-ridden web portals, Google had one specific purpose and it did it well.
+Google displaced other search engines by leveraging a simple, minimalistic interface and superior search algorithm. While its competitors were cluttered, ad-ridden web portals, Google had one specific purpose, and it did it well.
 
 This was what Google looked like then:
 
@@ -52,7 +52,7 @@ As early as 2019, savvy users discovered that adding ‘site:reddit.com’ or si
 ![Let's see who this really is](the-culprit.jpg)
 *Let's see who is behind that mask*
 
-At the end of the day, Google itself ruined Google Search and they have no current incentive to fix it. 
+At the end of the day, Google itself ruined Google Search, and the company has no current incentive to fix it. 
 
 So, what can we do about it? We can start by using Google's proprietary products less, writing helpful content for people and promoting it actively. You can go a step further and install a custom ROM (LineageOS and /e/OS are good options) on your Android device to shake things up a bit. Between us and the LLM chatbots, I'd wager that we could go some damage to the conglomerate.
 
