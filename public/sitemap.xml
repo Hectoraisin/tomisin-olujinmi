@@ -2,32 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomisinolujinmi.com/categories/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <loc>https://tomisinolujinmi.com/tags/ai-overviews/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
-    <loc>https://tomisinolujinmi.com/tags/google/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <loc>https://tomisinolujinmi.com/categories/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/categories/google/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
+  </url><url>
+    <loc>https://tomisinolujinmi.com/tags/google/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/posts/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
-  </url><url>
-    <loc>https://tomisinolujinmi.com/tags/search/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/categories/search/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
-    <loc>https://tomisinolujinmi.com/tags/seo/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <loc>https://tomisinolujinmi.com/tags/search/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/categories/seo/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
+  </url><url>
+    <loc>https://tomisinolujinmi.com/tags/seo/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/tags/</loc>
-    <lastmod>2025-02-17T19:19:54+01:00</lastmod>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
+  </url><url>
+    <loc>https://tomisinolujinmi.com/posts/problem-with-ai-overviews/</loc>
+    <lastmod>2025-03-18T10:19:21+01:00</lastmod>
+  </url><url>
+    <loc>https://tomisinolujinmi.com/posts/test-article/</loc>
+    <lastmod>2025-03-17T22:58:02+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/posts/who-ruined-search/</loc>
     <lastmod>2025-02-17T19:19:54+01:00</lastmod>
@@ -41,10 +50,10 @@
     <loc>https://tomisinolujinmi.com/tags/hugo/</loc>
     <lastmod>2025-02-07T23:13:03+01:00</lastmod>
   </url><url>
-    <loc>https://tomisinolujinmi.com/tags/jamstack/</loc>
+    <loc>https://tomisinolujinmi.com/categories/jamstack/</loc>
     <lastmod>2025-02-07T23:13:03+01:00</lastmod>
   </url><url>
-    <loc>https://tomisinolujinmi.com/categories/jamstack/</loc>
+    <loc>https://tomisinolujinmi.com/tags/jamstack/</loc>
     <lastmod>2025-02-07T23:13:03+01:00</lastmod>
   </url><url>
     <loc>https://tomisinolujinmi.com/posts/hugo-website/</loc>
