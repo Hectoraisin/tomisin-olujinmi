@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tomisin Olujinmi</title>
-    <link>https://tomisinolujinmi.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Tomisin Olujinmi</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Mar 2025 10:19:21 +0100</lastBuildDate>
-    <atom:link href="https://tomisinolujinmi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google</title>
-      <link>https://tomisinolujinmi.com/categories/google/</link>
+      <link>http://localhost:1313/categories/google/</link>
       <pubDate>Tue, 18 Mar 2025 10:19:21 +0100</pubDate>
-      <guid>https://tomisinolujinmi.com/categories/google/</guid>
+      <guid>http://localhost:1313/categories/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://tomisinolujinmi.com/categories/search/</link>
+      <link>http://localhost:1313/categories/search/</link>
       <pubDate>Tue, 18 Mar 2025 10:19:21 +0100</pubDate>
-      <guid>https://tomisinolujinmi.com/categories/search/</guid>
+      <guid>http://localhost:1313/categories/search/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>https://tomisinolujinmi.com/categories/seo/</link>
+      <link>http://localhost:1313/categories/seo/</link>
       <pubDate>Tue, 18 Mar 2025 10:19:21 +0100</pubDate>
-      <guid>https://tomisinolujinmi.com/categories/seo/</guid>
+      <guid>http://localhost:1313/categories/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Jamstack</title>
-      <link>https://tomisinolujinmi.com/categories/jamstack/</link>
+      <link>http://localhost:1313/categories/jamstack/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://tomisinolujinmi.com/categories/jamstack/</guid>
+      <guid>http://localhost:1313/categories/jamstack/</guid>
       <description></description>
     </item>
     <item>
       <title>Website Design</title>
-      <link>https://tomisinolujinmi.com/categories/website-design/</link>
+      <link>http://localhost:1313/categories/website-design/</link>
       <pubDate>Fri, 07 Feb 2025 23:13:03 +0100</pubDate>
-      <guid>https://tomisinolujinmi.com/categories/website-design/</guid>
+      <guid>http://localhost:1313/categories/website-design/</guid>
       <description></description>
     </item>
   </channel>
