@@ -128,7 +128,7 @@ However, be cautious of being hyper-focused on minor details at the expense of t
 
 A/B tests should be concentrated on the parts of the landing page that directly influence conversions: copy length, headlines, form fields, call-to-action and key visuals. 
 
-There are no set rules for A/B testing though. Yourhttps://www.q personal experience and campaign goals should inform the tests you perform. 
+There are no set rules for A/B testing though. Your campaign goals should inform the tests you perform. 
 
 ## 5. Keep it simple
 ![keep it stupid simple](keep-it-stupid-simple.webp)
