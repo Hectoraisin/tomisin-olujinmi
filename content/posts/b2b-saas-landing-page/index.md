@@ -1,6 +1,6 @@
 ---
 date: '2025-04-03T12:34:46+01:00'
-title: 'How to build a high-converting B2b Saas landing page'
+title: 'How to build a high-converting B2B SaaS landing page'
 category: ["Software as a Service", "B2B Software as a Service", "Conversion Rate Optimization"]
 tags: ["landing page design", "software as a service", "conversion rate optimization"]
 canonicalURL: https://tomisinolujinmi.com/posts/b2b-saas-landing-page/
