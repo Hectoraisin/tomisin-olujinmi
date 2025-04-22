@@ -85,7 +85,7 @@ A landing page should ideally have one link on it – the call-to-action. This i
 - Provide all relevant information on the landing page itself
 
 
-## 2. Responsiveness and speed are not negotiable
+### 2. Responsiveness and speed are not negotiable
 
 ![Carrd.co homepage](carrd-homepage.png)
 *Source: [Carrd](https://www.carrd.co)*
@@ -105,7 +105,7 @@ Most SaaS landing page builders like **Unbounce**, **Framer**, and **Carrd**, ar
 - Use a block editor for WordPress 
 - Test your page's loading speed with PageSpeed Insights before publishing.
 
-## 3. Clean, relevant copy complements great design
+### 3. Clean, relevant copy complements great design
 ![Mailchimp landing page](Mailchimp.png)
 *Source: [Mailchimp](https://www.mailchimp.com)*
 
@@ -122,7 +122,7 @@ Most prospects don't care about who you're better than; they care about getting 
 
 A proper B2B SaaS landing page is no place, in my opinion, for the generic content LLMs are known for. AI-assisted copy is generally fine, as long as it feels personal and retains your tone of voice. 
 
-## 4. A/B testing
+### 4. A/B testing
 ![VWO landing page](vwo-landing-page.png)
 
 "*Always Be Testing*". A/B testing, also known as split testing, tests two different versions of a page to see which performs best. With A/B testing, you can tweak different elements on your B2B SaaS landing page (headlines, product images, calls-to-action, etc) and see what makes a difference in overall conversions.
@@ -133,7 +133,7 @@ A/B tests should be concentrated on the parts of the landing page that directly 
 
 There are no set rules for A/B testing though. **Your campaign goals should inform the tests you perform**. 
 
-## 5. Keep it simple
+### 5. Keep it simple
 ![keep it stupid simple](keep-it-stupid-simple.webp)
 *Source: Brett White/[Medium](https://www.medium.com)*
 
