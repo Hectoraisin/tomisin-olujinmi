@@ -56,7 +56,8 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  ShowShareButtons: false
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "telegram", "reddit"]
   
   profileMode:
     enabled: false

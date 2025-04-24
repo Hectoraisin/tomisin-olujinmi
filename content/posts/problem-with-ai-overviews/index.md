@@ -28,7 +28,7 @@ Google Search has become a sorry state of affairs with AI-generated summaries of
 
 The root of the problem is Google’s decision to compete with publishers for clicks and traffic, similar to most social media platforms.
 
-Google went from being a search engine that allowed people to find interesting websites and articles to scraping the content and publishing it on their SERPs directly. Some people would argue web crawling and web scraping are completely different but I’d argue that there is only a fine  distinction. 
+[Google went from being a search engine](/posts/who-ruined-search/) that allowed people to find interesting websites and articles to scraping the content and publishing it on their SERPs directly. Some people would argue web crawling and web scraping are completely different but I’d argue that there is only a fine  distinction. 
 
 Google didn’t become a web scraping service until it introduced schema markups which enhanced user experience but blurred the line between the publisher and the medium. They followed up with weather updates and live sports scores before going all in with featured snippets. 
 
@@ -55,7 +55,7 @@ The “Web” results view is unburdened with AI results, for now. You can get a
 
 *Tip: You can add -ai to your search query for a quick fix*
 
-Since the fiasco with the rocks and glue eating, Google has been more cautious with displaying AI Overviews. I’ve noticed AI Overviews appear more in informational searches and are less present in searches related to medicine ([soon to be changed](https://blog.google/technology/health/the-check-up-health-ai-updates-2025/), finance, and politics. Due to how LLMs work, overviews also do not appear for breaking news or trending content. So, it is not the end of the world as we know it, not quite yet.
+Since the fiasco with the rocks and glue eating, Google has been more cautious with displaying AI Overviews. I’ve noticed AI Overviews appear more in informational searches and are less present in searches related to medicine ([soon to be changed](https://blog.google/technology/health/the-check-up-health-ai-updates-2025/)), finance, and politics. Due to how LLMs work, overviews also do not appear for breaking news or trending content. So, it is not the end of the world as we know it, not quite yet.
 
 
 

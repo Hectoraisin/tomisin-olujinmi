@@ -120,7 +120,7 @@ Imagine you're at a high-end restaurant and instead of giving you the menu and l
 
 Most prospects don't care about who you're better than; they care about getting the most value for money.
 
-A proper B2B SaaS landing page is no place, in my opinion, for the generic content LLMs are known for. AI-assisted copy is generally fine, as long as it feels personal and retains your tone of voice. 
+A proper B2B SaaS landing page is no place, in my opinion, for the generic content [LLMs are known for](/posts/problem-with-ai-overviews/). AI-assisted copy is generally fine, as long as it feels personal and retains your tone of voice. 
 
 ### 4. A/B testing
 ![VWO landing page](vwo-landing-page.png)
@@ -144,6 +144,49 @@ Simple, easy-to-understand copy converts **five times better**.
 Forget the industry jargon and wordy descriptions of your product. If your product has advanced features that are difficult to explain, opt for a demo video and keep the copy itself stupid simple. 
 
 If you found this guide useful, please share it!
+
+## What do experts say about SaaS landing page design?
+
+I’ve compiled a list of helpful and best practices from CRO veterans and copywriting experts.
+
+### 1. Make sure your ad copy and the landing page message match - Toni Hoppenen, [Landing Rabbit](https://landingrabbit.com/)
+
+This is a quite common landing page mistake. Your ad copy and landing page should tell a consistent story. If a prospect clicked on your ad to learn more about how to reduce support tickets, they should find information on how your product helps them achieve that goal.
+
+Toni also advises to have a separate landing page for each ad and ad group.
+
+### 2. Don’t be afraid to use language that excludes people - Jess Cook, [The B2B Playbook](https://theb2bplaybook.com/) 
+
+By all means, indulge your ideal customer profile with clarity and simplicity but don’t be afraid to exclude people that aren’t a good fit for your product. 
+
+Copy is a great way to validate your leads. A landing page visitor should find it easy to tell that your product isn’t for them by reading the copy.
+
+### 3. Your job is to position your product as a bridge to go from present pain to their dream outcome – Harry Lawson, [Elements Copy](https://www.elementscopy.com/)
+
+Harry emphasizes showing, not telling in landing page design. It is easy to get lost in the number of features and the technology behind your product. However, the customer just wants to know if your product can get them where they need to go. 
+
+Your landing page should sell satisfaction and gratification, not features and specifications.
+
+### 4. Cut out all the distractions and show a picture of the product – Sahil Patel, [Spiralyze](https://www.spiralyze.com/)
+
+Sahil advocates for using actual images of the product, rather than lifestyle photos. He says a big, splash screen of your product in the hero section results in more conversions. 
+
+He also advises “big swings and changing multiple things” in A/B testing B2B SaaS landing pages, rather than minor variable tweaks. This, he says, is due to lower average traffic on B2B landing pages, compared to B2C brands. 
+
+### 5. Tell them why product is 10x better than the product they are currently using - Pedro Cortés, [Cortés.Design](https://www.cortes.design/)
+
+Change is hard. You need to give your prospects a reason to switch before they even consider your product.
+
+A good way to do this is via the PAS (Problem, Agitation, and Solution) formula. Highlight their current pain points, stress why these issues need to be resolved, and present your product as the best solution.
+
+
+### 6. Build a minimal landing page - Tomisin Olujinmi ([me!](https://portfolio.tomisinolujinmi.com))
+
+Complex designs won’t get you more customers. Simple, clear, and straightforward wins always. Your landing page should be simple enough to convey your message, but no simpler. 
+
+Aesthetics are important and there’s a place for flashiness, but if your goal is to maximize conversions and not win Awwwards, keep it simple from copy to design. 
+
+Sharing is caring! If you found this guide useful, feel free to share it!
 
 
 
