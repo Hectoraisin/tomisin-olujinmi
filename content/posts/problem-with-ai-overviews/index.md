@@ -51,7 +51,7 @@ It is not exactly groundbreaking technology but it is enough to keep the movers 
 ![Ten Blue Links](mariachi-Google-Search.png)
 *Ten blue links, how I've missed you*
 
-The “Web” results view is unburdened with AI results, for now. You can get a clean list of results by selecting Web from the menu at the bottom of the search bar or by adding “&udm-14” to the search URL. Ernie’s original blog post shows you how to set it up in your browser. TenBlueLinks and Ernie’s udm14 website can also be used as custom search engines. Enjoy it while it lasts.
+The “Web” results view is unburdened with AI results, for now. You can get a clean list of results by selecting Web from the menu at the bottom of the search bar or by adding “&udm-14” to the search URL. Ernie’s [original blog post on the Web view](https://tedium.co/2024/05/17/google-web-search-make-default/) shows you how to set it up in your browser. [TenBlueLinks](https://tenbluelinks.org) and [Ernie’s udm14 website](https://udm14.com/) can also be used as custom search engines. Enjoy it while it lasts.
 
 *Tip: You can add -ai to your search query for a quick fix*
 

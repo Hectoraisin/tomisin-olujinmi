@@ -40,7 +40,7 @@ Before the Helpful Content update, if you wrote a 3000-word article filled with 
 
 The system ran on for a while. A good number of web content writers got paid by the word and were incentivized to write more words. Businesses got to rank on the first page of Google, so they had no reason to change what worked. SEO experts and service providers were able to create a bloated and overpriced industry. But web users were getting the short end of the stick with fluffy, uninteresting, and arduous-to-read content that had forgotten who it was meant to serve.
 
-You can't explicitly blame SEOs for the turn of events. Behind the scenes, Google has been focused on solving one problem: maximizing profit potential from ad revenue. Google was too busy stealing answers with featured snippets (later AI Overviews) from creators to notice the growing attention issue they had contributed to.
+You can't explicitly blame SEOs for the turn of events. Behind the scenes, Google has been focused on solving one problem: maximizing profit potential from ad revenue. Google was too busy stealing answers with featured snippets (later [AI Overviews](/posts/problem-with-ai-overviews)) from creators to notice the growing attention issue they had contributed to.
 
 As early as 2019, savvy users discovered that adding ‘site:reddit.com’ or simply ‘Reddit’ to their searches was the best way to skip the ads and 2500-word articles to get the actual answer they were looking for. Perhaps if they had the resources, Reddit Inc. could have created a worthwhile competitor to Google Search. Google would later add a ‘Discussions and forums’ section in late 2022 and would begin boosting Reddit and Quora in 2023. 
 

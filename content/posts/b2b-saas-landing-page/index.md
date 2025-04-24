@@ -143,7 +143,6 @@ Simple, easy-to-understand copy converts **five times better**.
 
 Forget the industry jargon and wordy descriptions of your product. If your product has advanced features that are difficult to explain, opt for a demo video and keep the copy itself stupid simple. 
 
-If you found this guide useful, please share it!
 
 ## What do experts say about SaaS landing page design?
 
@@ -178,7 +177,6 @@ He also advises “big swings and changing multiple things” in A/B testing B2B
 Change is hard. You need to give your prospects a reason to switch before they even consider your product.
 
 A good way to do this is via the PAS (Problem, Agitation, and Solution) formula. Highlight their current pain points, stress why these issues need to be resolved, and present your product as the best solution.
-
 
 ### 6. Build a minimal landing page - Tomisin Olujinmi ([me!](https://portfolio.tomisinolujinmi.com))
 
