@@ -53,26 +53,5 @@
 &lt;p&gt;My name is Tomisin and I am a B2B SaaS Copywriter. I have worked for MakeUseOf and CNX Software, writing long-form and news articles about productivity, electronics and computer hardware, embedded technology, and artificial intelligence. I write fiction occasionally and might publish a book or two in the near future.&lt;/p&gt;
 &lt;p&gt;Currently, I create thoughtful and audience-oriented content for decision makers and stakeholders in the B2B SaaS industry. I write newsletters, landing pages, email copy, ebooks, blog posts, articles, and whitepapers.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>http://localhost:1313/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
