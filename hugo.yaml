@@ -72,9 +72,9 @@ params:
         url: tags
   
   homeInfoParams:
-     Title: "B2B Saas Copywriter. Tinkerer. Breaker of Words"
+     Title: "Storyteller. Tinkerer. Breaker of Words"
      Content: >
-       Welcome to my personal website and blog. I write about the **cloud**, **enterprise tech**, **integrations**, **business automation**, and **digital marketing**. I can be found on the following social platforms.
+       Welcome to my personal website and blog. I can be found on the following social platforms.
        
   socialIcons:
       - name: linkedin

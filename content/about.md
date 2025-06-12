@@ -4,13 +4,13 @@ layout: "single"
 ShowBreadCrumbs: false
 ---
 
-### Hello! Welcome to my personal website. 
+### Hello and Welcome! 
 
-My name is Tomisin and I am a B2B SaaS Copywriter. I have worked for MakeUseOf and CNX Software, writing long-form and news articles about productivity, electronics and computer hardware, embedded technology, and artificial intelligence. I write fiction occasionally and might publish a book or two in the near future.
+My name is Tomisin and I love writing stories. I have a degree in agricultural extension and communication technology from the (Federal University of Technology Akure.
 
-Currently, I create thoughtful and audience-oriented content for decision makers and stakeholders in the B2B SaaS industry. I write newsletters, landing pages, email copy, ebooks, blog posts, articles, and whitepapers. 
+I have worked for MakeUseOf and CNX Software, writing long-form articles and news stories about productivity, electronics and computer hardware, embedded technology, and artificial intelligence. I write fiction and might publish a book or two in the near future, if the world doesn't end before.
 
-I am a fitness enthusiast, repented gamer, and so-so programmer. I love to tinker with software, especially open-source software, and I never cease to be amazed with what it is possible with code, 
+I am a fitness enthusiast and a sucker for aesthetics. I love open-source software, and I never cease to be amazed with what it is possible with code. Currently, I write news and other stories for [Hackster.io](https://www.hackster.io)
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomisin-olujinmi/) or send me an email via the contact form below:  
 
